@@ -1,0 +1,16 @@
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\ResolveAssemblyReference.cache
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\AORibbon.vbproj.ResolveComReference.cache
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\Microsoft.Office.Interop.Excel.dll
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\office.dll
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\Microsoft.Vbe.Interop.dll
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\Microsoft.Office.Interop.Excel.xml
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\office.xml
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\Microsoft.Office.Interop.Outlook.dll
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\Microsoft.Office.Interop.Outlook.xml
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\ActivityOwner MindReader2.dll
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\ActivityOwner MindReader2.pdb
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\ActivityOwner MindReader2.xml
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\ActivityOwner MindReader2.tlb
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\ActivityOwner MindReader2.dll
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\ActivityOwner MindReader2.xml
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\ActivityOwner MindReader2.pdb

@@ -1,0 +1,14 @@
+D:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\MindReader2.vbproj.ResolveComReference.cache
+D:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\ActivityOwner MindReader2.dll
+D:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\ActivityOwner MindReader2.xml
+D:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\ActivityOwner MindReader2.pdb
+D:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\ActivityOwner MindReader2.dll
+D:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\ActivityOwner MindReader2.pdb
+D:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\ActivityOwner MindReader2.xml
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\bin\ActivityOwner MindReader2.tlb
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\AORibbon.AboutBox1.resources
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\AORibbon.mindreaderoptionsform.resources
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\AORibbon.MarkupForm.resources
+d:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\AORibbon.mrform.resources
+D:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\MindReader2.vbproj.GenerateResource.Cache
+D:\Jack\Documents\Visual Studio 2010\Projects\AORibbon\AORibbon\obj\Debug\MindReader2.vbprojResolveAssemblyReference.cache
